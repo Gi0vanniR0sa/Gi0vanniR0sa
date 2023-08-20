@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Computer Science Student 2/4<br>🌱 Learning about Java | Python | Html<br>⚡Intererest in Machine Learning and Functional Programming
+🔭 Computer Science Student 2/4<br>🌱 Learning about Java | Python | Html<br>⚡ Intererest in Machine Learning and Functional Programming
 
 
 # 💻 Tech Stack:
